@@ -1,0 +1,3 @@
+[submodule "src/contracts/transfer-contracts"]
+	path = src/contracts/transfer-contracts
+	url = https://github.com/Diplom23/transfer-contracts.git
